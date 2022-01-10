@@ -3,4 +3,5 @@
 
 
  ### Icons
-[react icons] (https://react-icons.github.io/react-icons/)
+ My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+[React-Icons] (https://react-icons.github.io/react-icons/)
