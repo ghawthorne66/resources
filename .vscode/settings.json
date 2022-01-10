@@ -1,0 +1,5 @@
+{
+    "editor.fontFamily": "Fira Code, Dank Mono, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 16,
+    "json.trace.server": "messages"
+}
