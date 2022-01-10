@@ -2,5 +2,6 @@
 
 
 
-1. Icons
-    * [react-icons.github.io/react-icons/]
+ ## Icons
+    
+    - [react icons] (https://react-icons.github.io/react-icons/)
