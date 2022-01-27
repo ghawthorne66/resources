@@ -7,6 +7,9 @@
 #### CSS 
 - [Daisy UI](https://daisyui.com/)
 
+### Cron and Schedulers
+- [BullMQ](https://docs.bullmq.io/)
+
 
 
 ### Other
