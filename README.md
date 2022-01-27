@@ -9,6 +9,8 @@
 
 ### Cron and Schedulers
 - [BullMQ](https://docs.bullmq.io/)
+- [Taskforce.sh](https://taskforce.sh/)
+- [Article 'Schedule your Node.js tasks with agenda.js'](https://levelup.gitconnected.com/schedule-your-node-js-task-with-agenda-js-3dc40aab3316)
 
 
 
